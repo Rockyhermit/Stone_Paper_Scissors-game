@@ -1,4 +1,4 @@
-# It's my first GAME !!!!   27 december 2021
+# Stone Paper Scissors Using Python
 import random
 from os import system, name
 from time import sleep
